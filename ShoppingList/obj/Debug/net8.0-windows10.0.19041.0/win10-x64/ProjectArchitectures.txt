@@ -1,0 +1,1 @@
+C:\Users\igus9\Desktop\Shopping-List-App-main\ShoppingList\ShoppingList.csproj;x64
